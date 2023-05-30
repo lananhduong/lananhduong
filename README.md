@@ -7,7 +7,7 @@
   -webkit-text-fill-color: transparent; 
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;">
-  Laura (Lan) Duong  </h1>
+  Laura Duong  </h1>
 </div>
 
 <div id="header" align="center">
@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://ucarecdn.com/734ef4f7-354b-452f-96b6-9e8e13c425bd/" width="9999" height="300"/>
+  <img src="https://ucarecdn.com/734ef4f7-354b-452f-96b6-9e8e13c425bd/" width="9999" height="286"/>
 </div>
 
 
@@ -63,7 +63,7 @@
 
 
 <div align="center">
-<img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="right" style="width: 60%" />
+<img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="right" style="width: 48%" />
 </div>  
 
 
