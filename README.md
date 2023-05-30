@@ -24,7 +24,7 @@
   </a>
 </div>
 <h1 align="center">
- Welcome to my portfolio 
+ Welcome to my GitHub 
 <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/>
 </h1>
 
