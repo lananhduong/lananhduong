@@ -44,11 +44,11 @@
 
 💼 I’m currently working as a Data Analyst at [JungTalents](https://www.jungtalents.com/?fbclid=IwAR1wSoRU1awn3PvDY0qQ6EEwsEGBj_g7IW6v48bmOAg7OK4E8ObMGBv6d1M).  
   
-🛠️ I have analytical skills and experience in Data Cleaning, Wrangling, Transformation, Manipulation and Visualisation for large datasets.
+🛠️ **Analytical skills and experience**: Data Cleaning, Wrangling, Transformation, Manipulation and Visualisation for large datasets.
 
-🚀 I have good knowledge of Statistics, the ETL/EDA Process, BI Taxonomy, Agile Methodology and I'm constantly learning new tools and skills in Data Analysis/Science.
+🚀 **Knowledge**: Statistics, the ETL/EDA Process, BI Taxonomy, Agile Methodology, and I'm constantly learning new tools and skills in Data Analysis/Science.
 
-🪂 My hobby: Analysing charts and assessing companies’ portfolios to invest 10% of my salary 📈💲
+🪂 **Hobby**: Analysing charts and assessing companies’ portfolios to invest 10% of my salary 📈💲
  
  🎷 Reach me at:
         <a href="https://www.linkedin.com/in/lananhdg/">
