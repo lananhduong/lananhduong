@@ -7,14 +7,14 @@
   -webkit-text-fill-color: transparent; 
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;">
-  Laura (Lan) Duong </h1>
+  Laura (Lan) Duong  </h1>
 </div>
-
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFhODkyNmFmMjFjMjAyZWQ4MzU0MDZiYWQwOWFjZjMzN2ZkNTBlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" height="150"/>
+  <img src="https://media.giphy.com/media/ilWX7yp3N4fpMGwDMT/giphy.gif" width="180" height="180"/>
 </div>
 <div id="badges" align="center">
+  
   <a href="https://www.linkedin.com/in/lananhdg/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,66 +24,52 @@
   </a>
 </div>
 <h1 align="center">
-  hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Welcome to my portfolio 
+<img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/>
 </h1>
 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://ucarecdn.com/734ef4f7-354b-452f-96b6-9e8e13c425bd/" width="9999" height="300"/>
 </div>
 
 
-## <div align="center">
-  Welcome to my portfolio 👋🙏
 
-   I am Laura - a Data Enthusiast and  Junior Data Analyst 👩‍💻🔍</div>  
-
-
-### Let's Connect   
-<a href="https://github.com/https://github.com/lananhduong" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lananhdg/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<h1>
+🔍 About me:
+</h1>
   
+ I am Laura - a **Data Enthusiast** and  **Data Analyst** 👩‍💻</div>  
 
-<br/>  
-
-
-
-
-
-### 🔍ABOUT ME:  
 
 💼 I’m currently working as a Data Analyst at [JungTalents](https://www.jungtalents.com/?fbclid=IwAR1wSoRU1awn3PvDY0qQ6EEwsEGBj_g7IW6v48bmOAg7OK4E8ObMGBv6d1M).  
   
+🛠️ I have analytical skills and experience in Data Cleaning, Wrangling, Transformation, Manipulation and Visualisation for large datasets.
+
+🚀 I have good knowledge of Statistics, the ETL/EDA Process, BI Taxonomy, Agile Methodology and I'm constantly learning new tools and skills in Data Analysis/Science.
+
+🪂 My hobby: Analysing charts and assessing companies’ portfolios to invest 10% of my salary 📈💲
+ 
+ 🎷 Reach me at:
+        <a href="https://www.linkedin.com/in/lananhdg/">
+          <img src="https://img.shields.io/badge/Laura Duong-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        or 
+        <a href="mailto:dglananh2810@gmail.com">
+         <img src="https://img.shields.io/badge/Email Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+      </li>
 
 
-🛠️ I have skills and experience in Data Cleaning, Wrangling, Manipulation and Visualisation.
-
-  
-  
-
-🎷 Please reach me at [Laura Duong](https://www.linkedin.com/in/lananhdg/) and dglananh2810@gmail.com  
-  
-
-![]()  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="right" style="width: 60%" />
 </div>  
 
 
-</td></tr></table>  
-
 <br/>  
 
-
-## 🗝️ Languages and Tools  
+<h2 style="color: #44AEFB">🗝️ Languages and Tools:</h2>
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
@@ -99,8 +85,10 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
 </div>  
 
+
 <br/>  
 
+<h2 style="color: #44AEFB">📊 Statistics:</h2>
+<div id="statistics" align="center">
 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=lananhduong&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
