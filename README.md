@@ -30,7 +30,7 @@
 
 
 <div align="center">
-  <img src="https://ucarecdn.com/734ef4f7-354b-452f-96b6-9e8e13c425bd/" width="9999" height="286"/>
+  <img src="https://ucarecdn.com/734ef4f7-354b-452f-96b6-9e8e13c425bd/" width="9999" height="280"/>
 </div>
 
 
@@ -63,7 +63,7 @@
 
 
 <div align="center">
-<img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="right" style="width: 48%" />
+<img src="https://media.giphy.com/media/XGDJ1ExcBfvzYdBGbi/giphy.gif" align="right" style="width: 46%" />
 </div>  
 
 
