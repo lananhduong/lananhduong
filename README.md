@@ -42,9 +42,9 @@
  I am Laura - a **Data Enthusiast** and  **Data Analyst** 👩‍💻</div>  
 
 
-💼 I’m currently working as a Data Analyst at [JungTalents](https://www.jungtalents.com/?fbclid=IwAR1wSoRU1awn3PvDY0qQ6EEwsEGBj_g7IW6v48bmOAg7OK4E8ObMGBv6d1M).  
+💼 I’m currently working as a Business Analyst at [JungTalents](https://www.jungtalents.com/?fbclid=IwAR1wSoRU1awn3PvDY0qQ6EEwsEGBj_g7IW6v48bmOAg7OK4E8ObMGBv6d1M).  
   
-🛠️ **Analytical skills and experience**: Data Cleaning, Wrangling, Transformation, Manipulation and Visualisation for large datasets.
+🛠️ **Analytical skills and experience**: Google Analytics; Data Cleaning, Wrangling, Transformation, Manipulation and Visualisation for large datasets.
 
 🚀 **Knowledge**: Statistics, the ETL/EDA Process, BI Taxonomy, Agile Methodology, and I'm constantly learning new tools and skills in Data Analysis/Science.
 
